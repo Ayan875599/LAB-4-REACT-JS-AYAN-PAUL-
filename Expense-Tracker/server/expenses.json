@@ -1,0 +1,88 @@
+{
+  "expenses": [
+    {
+      "expenseDescription": "Internet Expenses",
+      "payeeName": "Ramesh",
+      "price": 1100,
+      "date": "2021-05-26T00:00:00.000Z",
+      "id": 1
+    },
+    {
+      "expenseDescription": "Bike Maintainence Expenses",
+      "payeeName": "Rahul",
+      "price": 3500,
+      "date": "2020-04-16T00:00:00.000Z",
+      "id": 2
+    },
+    {
+      "expenseDescription": "Electricity Bill - Nov Month",
+      "payeeName": "Ramesh",
+      "price": 2200,
+      "date": "2022-08-06T00:00:00.000Z",
+      "id": 3
+    },
+    {
+      "expenseDescription": "Dinner Expenses - Friday Night",
+      "payeeName": "Rahul",
+      "price": 1750,
+      "date": "2023-02-26T00:00:00.000Z",
+      "id": 4
+    },
+    {
+      "expenseDescription": "Saturday - Movie Night",
+      "payeeName": "Ramesh",
+      "price": 920,
+      "date": "2023-02-26T00:00:00.000Z",
+      "id": 5
+    },
+    {
+      "expenseDescription": "Expense-Entry-06",
+      "payeeName": "Ramesh",
+      "price": 666,
+      "date": "2016-06-06T00:00:00.000Z",
+      "id": 6
+    },
+    {
+      "expenseDescription": "travel expense",
+      "payeeName": "Rahul",
+      "price": 568,
+      "date": "2022-03-21T00:00:00.000Z",
+      "id": 7
+    },
+    {
+      "expenseDescription": "Food Expense ",
+      "payeeName": "Ramesh",
+      "price": 890,
+      "date": "2023-04-25T00:00:00.000Z",
+      "id": 8
+    },
+    {
+      "expenseDescription": "luch expense",
+      "payeeName": "Rahul",
+      "price": 7980,
+      "date": "2023-11-01T00:00:00.000Z",
+      "id": 9
+    },
+    {
+      "expenseDescription": "breakFast Expense",
+      "payeeName": "Ramesh",
+      "price": 8000,
+      "date": "2023-11-20T00:00:00.000Z",
+      "id": 10
+    },
+    {
+      "expenseDescription": "Dress Expense",
+      "payeeName": "Ramesh",
+      "price": 7500,
+      "date": "2023-10-12T00:00:00.000Z",
+      "id": 11
+    },
+    {
+      "expenseDescription": "Rent Payment",
+      "payeeName": "Ramesh",
+      "price": 8000,
+      "date": "2023-11-04T00:00:00.000Z",
+      "id": 12
+    }
+  ]
+}
